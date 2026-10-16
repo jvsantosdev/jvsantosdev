@@ -1,30 +1,28 @@
 # Olá, eu sou João Vitor! 👋
 
-## Desenvolvedor em formação • Docker • Python • IA
+## Full Stack Developer • AI & ML
 
-Curso Técnico em Desenvolvimento de Sistemas — aberto a estágio e oportunidades júnior em **Desenvolvimento**, **Suporte Técnico** e **Robótica**.
+Construo aplicações web de ponta a ponta com **TypeScript, React, Python e Docker**, e desenvolvo soluções com **LLMs e RAG**. Tenho formação em Biomedical Sciences e interesse em **health tech** e **automação**.
+📍 Brasília, DF — Remoto
 
-### 🚀 O que estou construindo
+### 🚀 Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Triagem-Laboratorial-Automatizada](https://github.com/jvsantosdev/Triagem-Laboratorial-Automatizada) | Sistema web de triagem laboratorial: cadastro de pacientes, fluxo de atendimento e registro de resultados | HTML, CSS, JavaScript |
-| [Validador-de-Peso-UFC](https://github.com/jvsantosdev/Validador-de-Peso-UFC) | Validador de peso e categoria para competições de MMA | HTML, CSS, JavaScript |
-| [Conversor-de-Moedas](https://github.com/jvsantosdev/Conversor-de-Moedas) | Conversor de moedas com cálculo de câmbio simples e direto | HTML, CSS, JavaScript |
+| [AI Support Hub](https://github.com/DavidGBbr/AI-Support-Hub) | SaaS B2B de customer support com RAG (projeto em equipe) — responsável pela integração com Stripe e code review | Next.js · FastAPI · PostgreSQL · pgvector · Redis · Celery · Docker |
+| English for Dev | Plataforma de aprendizado de inglês para devs, com conteúdo gerado por IA | Next.js · React · TypeScript · Prisma · PostgreSQL · Gemini |
+| [Triagem-Laboratorial-Automatizada](https://github.com/jvsantosdev/Triagem-Laboratorial-Automatizada) | Sistema web de triagem laboratorial: cadastro de pacientes e registro de resultados | HTML · CSS · JavaScript |
 
 ### 🧰 Stack e ferramentas
 
-**Linguagens:** Python • JavaScript • TypeScript • HTML/CSS
-**Edição e DevOps:** Git/GitHub • Docker • Docker Compose • WSL2
-**Banco e Backend:** Prisma • PostgreSQL (em aprendizado)
-
-### 📚 O que ando aprendendo
-
-- Conteinerização de aplicações com **Docker Compose**
-- IA aplicada a soluções de suporte e automação
-- Testes automatizados e boas práticas de projeto
+**Frontend:** React · Next.js · Angular · TypeScript · Tailwind CSS
+**Backend:** Python · FastAPI · Node.js · REST APIs
+**AI & ML:** LLMs · RAG · LangChain · Google Gemini
+**Dados:** PostgreSQL · MongoDB · Redis
+**DevOps:** Docker · Docker Compose · Git/GitHub · CI/CD
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-de-oliveira-68aa9b187/)
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitor.nq1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-de-oliveira-68aa9b187/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.vitor.soliveiradev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvsantosdev)
