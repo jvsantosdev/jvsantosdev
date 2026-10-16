@@ -3,7 +3,7 @@
 ## Full Stack Developer • AI & ML
 
 Construo aplicações web de ponta a ponta com **TypeScript, React, Python e Docker**, e desenvolvo soluções com **LLMs e RAG**. Tenho formação em Biomedical Sciences e interesse em **health tech** e **automação**.
-📍 Brasília, DF — Remoto
+📍 Brasília, DF Remoto
 
 ### 🚀 Projetos em destaque
 
