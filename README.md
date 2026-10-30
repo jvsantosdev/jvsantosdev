@@ -11,8 +11,8 @@ Construo aplicações web de ponta a ponta com **TypeScript, React, Python e Doc
 |---|---|---|
 | [AI Support Hub](https://github.com/DavidGBbr/AI-Support-Hub) | SaaS B2B de customer support com RAG (projeto em equipe) — responsável pela integração com Stripe e code review | Next.js · FastAPI · PostgreSQL · pgvector · Redis · Celery · Docker |
 | English for Dev | Plataforma de aprendizado de inglês para devs, com conteúdo gerado por IA | Next.js · React · TypeScript · Prisma · PostgreSQL · Gemini |
-| [Triagem-Laboratorial-Automatizada](https://github.com/jvsantosdev/Triagem-Laboratorial-Automatizada) | Sistema web de triagem laboratorial: cadastro de pacientes e registro de resultados | HTML · CSS · JavaScript |
 | [Controle Financeiro](https://github.com/jvsantosdev/Controle-financeiro) | Gerenciador financeiro pessoal: transações por categoria, orçamentos, metas de poupança e importação de CSV — com [app no ar](https://controle-financeiro-joaovs.vercel.app) | Next.js 15 · TypeScript · Prisma · PostgreSQL · NextAuth |
+| [Triagem-Laboratorial-Automatizada](https://github.com/jvsantosdev/Triagem-Laboratorial-Automatizada) | Sistema web de triagem laboratorial: cadastro de pacientes e registro de resultados | HTML · CSS · JavaScript |
 
 ### 🧰 Stack e ferramentas
 
